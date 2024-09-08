@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Coming soon
+# 🔜 Coming soon
 
 We are currently under development.
 
