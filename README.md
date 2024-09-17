@@ -1,4 +1,5 @@
 ---
+description: InoStocks is currently under development.
 cover: .gitbook/assets/Optimise.png
 coverY: 0
 layout:
@@ -8,7 +9,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -19,9 +20,7 @@ layout:
 
 # 🔜 Coming soon
 
-[**InoStocks**](https://inostocks.org/) is currently under development.
-
-Follow us on [**Telegram**](https://t.me/inostocks\_org/) or [**subscribe**](https://aecb16de.sibforms.com/serve/MUIFAMnoZaQmvcMZQCrbvZvyug-S8Ld2DX\_vS9UhoTJsWKXUKnNQ0tPgQ9pB2xTSJAjefpYW24NbtZTyDvq4cTA1AS4UEnJa8HGJiF\_sqMxN5aBB7nrasVyT0vatDao7NRFCV-KNHARz3KTIdAv1JtWFk60WjSSjH7kbf-ovetkThaqYn\_qMHAvSkN5KlEaJEs3t\_aMo\_RmIEDfZ) to our newsletter to stay informed about developments, special offers, and community events.
+Follow [**InoStocks**](https://inostocks.org/) on [**Telegram**](https://t.me/inostocks\_org/) or [**subscribe**](https://aecb16de.sibforms.com/serve/MUIFAMnoZaQmvcMZQCrbvZvyug-S8Ld2DX\_vS9UhoTJsWKXUKnNQ0tPgQ9pB2xTSJAjefpYW24NbtZTyDvq4cTA1AS4UEnJa8HGJiF\_sqMxN5aBB7nrasVyT0vatDao7NRFCV-KNHARz3KTIdAv1JtWFk60WjSSjH7kbf-ovetkThaqYn\_qMHAvSkN5KlEaJEs3t\_aMo\_RmIEDfZ) to the newsletter to stay informed about developments, community events and special offers.
 
 <div align="left">
 
